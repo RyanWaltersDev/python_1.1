@@ -1,1 +1,5 @@
-print("Hello Python world!")
+message = "Hello Python world!"
+print(message)
+
+message = "Hello Github!"
+print(message)
